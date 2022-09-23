@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/-rahul_naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rahul-naveen"/>
 </a>
  <a href="https://www.behance.net/rahul_n">
- <img src="https://img.shields.io/badge/-rahul_n-purple?style=flat-square&logo=behancew&logoColor=white&link=https://www.behance.net/rahul_n"/>
+ <img src="https://img.shields.io/badge/-rahul_n-purple?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/rahul_n"/>
 </a>
 </p>
 
@@ -26,7 +26,7 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=rahul-n18&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=rahul-n18&show_icons=true&theme=algolia&line_height=27">
  
 </p>
 
