@@ -31,11 +31,12 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-n18&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=rahul-n18&theme=github-dark-blue" />
 </p> 
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=rahul-n18&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">Star⭐ and Fork🍴 if you like❤️ </p>
+<h2 align="center">Peace Out <img src="https://i.pinimg.com/originals/b9/1c/d3/b91cd3fcbcc3a7ac122bc48bd2344781.gif" width="60"></h2>
