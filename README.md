@@ -2,9 +2,8 @@
 
 <p align="center">
  
+<img src="https://github.com/rahul-n18/rahul-n18/blob/main/bgt.png" width="690" />
 </p align="center">
-<img src="https://github.com/rahul-n18/rahul-n18/blob/main/bgt.png" />
-
 
 <h2 align="center">Let's Connect  <img src="https://www.gopinathcookingoil.com/image/telephone.gif" width="20"></h2>
 
