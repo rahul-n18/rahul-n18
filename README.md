@@ -38,5 +38,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=rahul-n18&theme=redical">
 </p> 
 <hr>
-<p align="center">Star⭐ and Fork🍴 if you like❤️ </p>
 <h2 align="center">Peace Out <img src="https://i.pinimg.com/originals/b9/1c/d3/b91cd3fcbcc3a7ac122bc48bd2344781.gif" width="60"></h2>
