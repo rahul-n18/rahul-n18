@@ -5,20 +5,16 @@
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srfzcp26tzlqmrid21gou66j7n0xuwpb8s6o4hg9&rid=giphy.gif&ct=g" width="400" />
 </p align="center">
 
-<h3 align="center">Currently a senior year undergrand and a Full Stack Developer</h3>
+<h3 align="center">Technical Trainer</h3>
 <h2 align="center">Let's Connect  <img src="https://www.gopinathcookingoil.com/image/telephone.gif" width="20"></h2>
 
 <p align="center">
 
-<a href="mailto: rahuldeepak2002@gmail.com">
- <img src="https://img.shields.io/badge/-rahuldeepak-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahuldeepak2002@gmail.com"/>
-</a>
+
 <a href="https://www.linkedin.com/in/rahul-naveen/">
  <img src="https://img.shields.io/badge/-rahul_naveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-naveen/"/>
 </a>
- <a href="https://www.behance.net/rahul_n">
- <img src="https://img.shields.io/badge/-rahul_n-purple?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/rahul_n"/>
-</a>
+
 </p>
 
 
