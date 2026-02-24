@@ -1,34 +1,11 @@
 <!-- Header with Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Rahul+Naveen;Technical+Trainer;Welcome+to+my+GitHub!&center=true&width=600&color=FF5733&size=35" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD%2C+I'm+Rahul;Welcome+to+my+GitHub+Profile!&center=true&width=600&color=FF5733&size=35" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdsZnNrMW5pMWhnNGl2dmwxbnUya3k1MXVhOTR6OG9iMzQ5NjIxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8WKW28xPfXwPaz5rL/giphy.gif" width="400" alt="Coding Gif" />
 </p>
-
-<h3 align="center">Technical Trainer • Developer • Educator</h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rahul-naveen/">
-    <img src="https://img.shields.io/badge/-rahul_naveen-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rahul-portfolio.link/">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=About.me&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 🚀 About Me
-
-- 🏆 Technical Trainer passionate about empowering learners
-- 💡 Enthusiast of EdTech, Open Source, and lifelong learning
-- 💬 Ask me about: **Python**, **Java**, **Data Science**, **Git**
-- 🌱 Currently exploring: **AI integration in education**
 
 ---
 
@@ -83,8 +60,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-n18&show_icons=true&theme=algolia&line_height=27" alt="Rahul's GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rahul-n18&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
@@ -96,22 +71,10 @@
 
 ---
 
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-n18&theme=redical" alt="GitHub Contribution Graph" />
-</p>
-
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rahul-naveen/">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
