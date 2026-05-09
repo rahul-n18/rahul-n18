@@ -57,24 +57,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahul-n18&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🏆 Holopin Board
 
 [![@rahul_n18's Holopin board](https://holopin.io/api/user/board?user=rahul_n18)](https://holopin.io/@rahul_n18)
 
 ---
 
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rahul-naveen/">
-    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
